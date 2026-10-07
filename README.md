@@ -1,27 +1,33 @@
-# Language Translation Tool
+# CodeAlpha Artificial Intelligence Internship
+## Task 2: Multi-Language Translation Tool with Text-to-Speech & Streamlit
 
-A modern, complete Language Translation web application built using Python, Streamlit, Googletrans, and gTTS (Google Text-to-Speech).
+**Intern:** Vedika Utturwar  
+**Student ID:** CA/DF1/308779  
+**Domain:** Artificial Intelligence  
+**Batch:** 1st October 2026 to 30th October 2026  
 
-## Features
+---
+
+## 📌 Project Overview
+A modern, complete Language Translation web application built using Python, Streamlit, Google Neural Machine Translation API, and gTTS (Google Text-to-Speech).
+
+## ✨ Features
 
 - **Multi-language Support:** Translate text between 100+ languages.
 - **Auto-Detection:** Automatically detect the source language of the input text.
-- **Language Swapping:** Easily swap source and target languages with a click.
-- **Text-to-Speech (TTS):** Listen to the translated text using Google TTS.
-- **Copy to Clipboard:** Copy the translated text quickly.
+- **Language Swapping:** Easily swap source and target languages with a single click.
+- **Text-to-Speech (TTS):** Listen to the translated text using Google TTS audio player.
+- **Copy to Clipboard:** Copy translated text instantly.
 - **Modern UI:** Clean, responsive, and easy-to-use interface powered by Streamlit.
+- **One-Click Launcher:** Run effortlessly via `run.bat`.
 
-## Screenshots
+## 🛠️ Technologies Used
 
-*(Add screenshots of your application here)*
-
-## Technologies Used
-
-- **Python**
-- **Streamlit:** For creating the interactive web interface.
-- **googletrans==4.0.0rc1:** For fetching translations (Free API).
-- **gTTS:** For Text-to-Speech functionality.
-- **pyperclip:** For clipboard integration.
+- **Python 3**
+- **Streamlit:** Interactive web interface
+- **Google Neural Translation Engine:** Free, high-accuracy translation
+- **gTTS:** Google Text-to-Speech audio synthesizer
+- **Pyperclip:** Clipboard integration
 
 ## Installation
 
